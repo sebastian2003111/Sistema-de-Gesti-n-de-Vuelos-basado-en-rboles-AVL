@@ -64,9 +64,13 @@ Finaliza la ejecución del programa.
 
 ### ✈️ Vuelos registrados
 Vuelo #100 — Bogotá → Medellín — 10:00 — Avianca
+
 Vuelo #105 — Medellín → Bogotá — 11:00 — VivaAir
+
 Vuelo #110 — Cali → Cartagena — 12:30 — LATAM
+
 Vuelo #115 — Pereira → Medellín — 10:50 — Satena
+
 Vuelo #120 — Barranquilla → Cali — 13:45 — Avianca
 
 
